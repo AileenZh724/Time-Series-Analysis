@@ -1,0 +1,11 @@
+datetime
+matplotlib
+mpl_toolkits
+numpy
+pandas
+random
+scipy
+sklearn
+statsmodels
+tqdm
+yfinance
